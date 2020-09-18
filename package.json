@@ -288,7 +288,7 @@
     "electron-updater": "4.2.0",
     "keytar": "4.13.0",
     "lunr": "2.3.3",
-    "node-forge": "0.7.6",
+    "node-forge": "0.10.0",
     "nord": "0.2.1",
     "papaparse": "4.6.0",
     "rxjs": "6.3.3",
